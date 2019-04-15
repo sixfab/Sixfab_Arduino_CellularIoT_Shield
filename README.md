@@ -1,6 +1,12 @@
 # Sixfab Arduino CellularIoT Shield
 This is repository of [Sixfab Arduino CellularIoT Shield](https://sixfab.com/product/arduino-lte-m-nb-iot-egprs-cellular-shield/).
 
+# Arduino Library
+
+[Arduino Library Repo](https://github.com/sixfab/Sixfab_Arduino_CellularIoT_App_Shield)
+
+**! Note:** Sixfab_Arduino_CellularIoT_Shield uses the same library with Sixfab_Arduino_CellularIoT_App_Shield. Please visit the library repo above. You can find the detailed instructions there.
+
 # Examples
 ** [basicUDP](https://github.com/sixfab/Sixfab_Arduino_CellularIoT_Library/blob/master/examples/basicUDP/basicUDP.ino)   
 ** [sensorTest](https://github.com/sixfab/Sixfab_Arduino_CellularIoT_Library/blob/master/examples/sensorTest/sensorTest.ino)  
